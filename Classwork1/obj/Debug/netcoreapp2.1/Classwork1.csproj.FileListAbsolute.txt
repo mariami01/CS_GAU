@@ -1,0 +1,12 @@
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.csprojAssemblyReference.cache
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.AssemblyInfoInputs.cache
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.AssemblyInfo.cs
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.csproj.CoreCompileInputs.cache
+C:\Users\zenai\source\repos\Classwork1\Classwork1\bin\Debug\netcoreapp2.1\Classwork1.deps.json
+C:\Users\zenai\source\repos\Classwork1\Classwork1\bin\Debug\netcoreapp2.1\Classwork1.runtimeconfig.json
+C:\Users\zenai\source\repos\Classwork1\Classwork1\bin\Debug\netcoreapp2.1\Classwork1.runtimeconfig.dev.json
+C:\Users\zenai\source\repos\Classwork1\Classwork1\bin\Debug\netcoreapp2.1\Classwork1.dll
+C:\Users\zenai\source\repos\Classwork1\Classwork1\bin\Debug\netcoreapp2.1\Classwork1.pdb
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.dll
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.pdb
+C:\Users\zenai\source\repos\Classwork1\Classwork1\obj\Debug\netcoreapp2.1\Classwork1.genruntimeconfig.cache
