@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/task2.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/task2.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/task2.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/task2.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/ref/task2.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/bin/Debug/net5.0/task2.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/ref/task2.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework2/Task2/task2/task2/obj/Debug/net5.0/task2.genruntimeconfig.cache

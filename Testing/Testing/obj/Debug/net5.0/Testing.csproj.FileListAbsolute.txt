@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/Testing.deps.json
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/Testing.runtimeconfig.json
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/Testing.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/Testing.dll
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/ref/Testing.dll
+/Users/mariamzenaishvili/Projects/Testing/Testing/bin/Debug/net5.0/Testing.pdb
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.AssemblyInfo.cs
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.dll
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/ref/Testing.dll
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.pdb
+/Users/mariamzenaishvili/Projects/Testing/Testing/obj/Debug/net5.0/Testing.genruntimeconfig.cache
