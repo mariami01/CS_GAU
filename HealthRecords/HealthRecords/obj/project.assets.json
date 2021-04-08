@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariamzenaishvili/Projects/HealthRecords/HealthRecords/HealthRecords.csproj",
+      "projectUniqueName": "/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/HealthRecords/HealthRecords/HealthRecords.csproj",
       "projectName": "HealthRecords",
-      "projectPath": "/Users/mariamzenaishvili/Projects/HealthRecords/HealthRecords/HealthRecords.csproj",
+      "projectPath": "/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/HealthRecords/HealthRecords/HealthRecords.csproj",
       "packagesPath": "/Users/mariamzenaishvili/.nuget/packages/",
-      "outputPath": "/Users/mariamzenaishvili/Projects/HealthRecords/HealthRecords/obj/",
+      "outputPath": "/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/HealthRecords/HealthRecords/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mariamzenaishvili/.config/NuGet/NuGet.Config"
