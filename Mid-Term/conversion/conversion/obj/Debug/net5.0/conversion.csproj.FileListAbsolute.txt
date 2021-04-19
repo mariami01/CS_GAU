@@ -1,0 +1,12 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/bin/Debug/net5.0/conversion.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/bin/Debug/net5.0/conversion.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/bin/Debug/net5.0/ref/conversion.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/bin/Debug/net5.0/conversion.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/ref/conversion.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/conversion/conversion/obj/Debug/net5.0/conversion.pdb
