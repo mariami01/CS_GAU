@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0EE32A41-B323-4A2A-B7DD-577EF946842C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortedListExample/Program.cs">
+    <Files>
+      <File FileName="SortedListExample/Program.cs" Line="26" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SortedListExample" expanded="True">
+            <Node name="SortedListExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SortedListExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

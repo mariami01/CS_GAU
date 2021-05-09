@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D5CC65BA-029F-4BC6-9034-E2027D5390CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitArrayExample/Program.cs">
+    <Files>
+      <File FileName="BitArrayExample/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BitArrayExample" expanded="True">
+            <Node name="BitArrayExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BitArrayExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

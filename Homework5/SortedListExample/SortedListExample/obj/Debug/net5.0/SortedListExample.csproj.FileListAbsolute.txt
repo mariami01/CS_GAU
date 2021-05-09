@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/SortedListExample.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/SortedListExample.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/SortedListExample.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/SortedListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/ref/SortedListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/bin/Debug/net5.0/SortedListExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/ref/SortedListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/SortedListExample/SortedListExample/obj/Debug/net5.0/SortedListExample.genruntimeconfig.cache

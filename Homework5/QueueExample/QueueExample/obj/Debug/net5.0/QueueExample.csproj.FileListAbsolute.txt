@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/QueueExample.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/QueueExample.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/QueueExample.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/QueueExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/ref/QueueExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/bin/Debug/net5.0/QueueExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/ref/QueueExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/QueueExample/QueueExample/obj/Debug/net5.0/QueueExample.genruntimeconfig.cache

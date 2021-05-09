@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/BitArrayExample.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/BitArrayExample.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/BitArrayExample.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/BitArrayExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/ref/BitArrayExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/bin/Debug/net5.0/BitArrayExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/ref/BitArrayExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/BitArrayExample/BitArrayExample/obj/Debug/net5.0/BitArrayExample.genruntimeconfig.cache

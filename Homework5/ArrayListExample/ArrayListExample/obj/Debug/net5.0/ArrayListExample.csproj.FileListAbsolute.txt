@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ArrayListExample.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ArrayListExample.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ArrayListExample.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ArrayListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ref/ArrayListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/bin/Debug/net5.0/ArrayListExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ref/ArrayListExample.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework5/ArrayListExample/ArrayListExample/obj/Debug/net5.0/ArrayListExample.genruntimeconfig.cache
