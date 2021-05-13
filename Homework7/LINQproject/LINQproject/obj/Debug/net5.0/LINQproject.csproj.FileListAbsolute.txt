@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/LINQproject.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/LINQproject.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/LINQproject.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/LINQproject.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/ref/LINQproject.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/bin/Debug/net5.0/LINQproject.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/ref/LINQproject.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework7/LINQproject/LINQproject/obj/Debug/net5.0/LINQproject.genruntimeconfig.cache
