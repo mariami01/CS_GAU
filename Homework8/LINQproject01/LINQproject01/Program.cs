@@ -56,7 +56,7 @@ namespace LINQproject01
 
 
 
-                //List<Student> mystudentData = studentData.Descendants("Student").Where(st => (int)st.Element("StudentID") == 2);
+                IEnumerable<XElement> mystudentData = studentData.Descendants("Student").Where(st => (int)st.Element("StudentID") == 2).ToList();
 
                 //List<Student> mystudentData = from stud in studentData.Descendants("Student")
                 //                              select stud.Element("Name").Value;
@@ -64,10 +64,10 @@ namespace LINQproject01
 
 
 
-                //foreach (Student student in students)
-                //{
-                //    Console.WriteLine($"Studnet: {student.Name} {student.LastName}, Major: {student.Major}");
-                //}
+                foreach (XElement el in mystudentData)
+                {
+                    Console.WriteLine(el); 
+                }
 
             }
                 static void InitializeStudent()
