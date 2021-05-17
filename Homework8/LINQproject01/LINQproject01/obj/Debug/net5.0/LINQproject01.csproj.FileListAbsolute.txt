@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/LINQproject01.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/LINQproject01.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/LINQproject01.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/LINQproject01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/ref/LINQproject01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/bin/Debug/net5.0/LINQproject01.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/ref/LINQproject01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework8/LINQproject01/LINQproject01/obj/Debug/net5.0/LINQproject01.genruntimeconfig.cache
