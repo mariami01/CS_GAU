@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/Task01.deps.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/Task01.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/Task01.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/Task01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/ref/Task01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/bin/Debug/net5.0/Task01.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/ref/Task01.dll
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.pdb
+/Users/mariamzenaishvili/Documents/Sophomore/CS_GAU/Homework10/Task01/Task01/obj/Debug/net5.0/Task01.genruntimeconfig.cache
