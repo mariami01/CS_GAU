@@ -1,0 +1,7 @@
+C:\Users\zenai\Desktop\FINALL\FINALL\bin\Debug\FINALL.exe.config
+C:\Users\zenai\Desktop\FINALL\FINALL\bin\Debug\FINALL.exe
+C:\Users\zenai\Desktop\FINALL\FINALL\bin\Debug\FINALL.pdb
+C:\Users\zenai\Desktop\FINALL\FINALL\obj\Debug\FINALL.csprojAssemblyReference.cache
+C:\Users\zenai\Desktop\FINALL\FINALL\obj\Debug\FINALL.csproj.CoreCompileInputs.cache
+C:\Users\zenai\Desktop\FINALL\FINALL\obj\Debug\FINALL.exe
+C:\Users\zenai\Desktop\FINALL\FINALL\obj\Debug\FINALL.pdb
